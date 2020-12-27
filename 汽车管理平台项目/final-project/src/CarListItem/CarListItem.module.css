@@ -1,0 +1,27 @@
+.container{
+  width: 300px;
+  font-family: 'Source Sans Pro', sans-serif;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.carItem{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+
+.button{
+  margin: 5px;
+  border: 2px solid #e6f7ff;
+  background-color: #40a9ff;
+  border-radius: 8px;
+  color: white;
+  height:23px;
+}
+
+.text{
+  font-style: italic;
+  font-weight:600;
+}

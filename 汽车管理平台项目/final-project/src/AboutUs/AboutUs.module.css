@@ -1,0 +1,11 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid #b5f5ec;
+  background-color: #b5f5ec;
+
+  font-family: 'Source Sans Pro', sans-serif;
+  font-style: italic;
+}
